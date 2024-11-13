@@ -18,9 +18,9 @@ const Aboutus = () => {
         specimen book. It has survived not only five centuries.
       </p>
 
-      <div className="relative mt-8 md:mt-12 lg:mt-16 flex justify-center lg:justify-end">
+   <div className="flex justify-center lg:justify-center ml-[34rem] -mt-[30rem]">
   <Image
-    className="w-full sm:w-80 md:w-[350px] lg:w-[450px] xl:w-[500px] max-w-xs lg:max-w-none -mt-48 md:-mt-60 lg:-mt-72 xl:-mt-96"
+    className="mx-auto md:mx-0 md:ml-10 lg:ml-0 "
     src={hero}
     alt="Hero Image"
     width={500}
