@@ -1,10 +1,6 @@
-
-import Image from 'next/image';
-import hero from '@/app/public/bghero3.png';
-
 const Aboutus = () => {
   return (
-    <div className="px-4 md:px-16 py-8">
+    <div className="px-4 md:px-16 py-8  mb-24 ml-72">
     
       <h1 className="font-serif text-4xl sm:text-5xl md:text-6xl lg:text-8xl mt-8 sm:mt-12 md:mt-28">
         Boost Your <br />
