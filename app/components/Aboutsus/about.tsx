@@ -18,17 +18,6 @@ const Aboutus = () => {
         specimen book. It has survived not only five centuries.
       </p>
 
-   <div className="flex justify-center lg:justify-center ml-[34rem] -mt-[30rem]">
-  <Image
-    className="mx-auto md:mx-0 md:ml-10 lg:ml-0 "
-    src={hero}
-    alt="Hero Image"
-    width={500}
-    height={500}
-    layout="intrinsic"
-  />
-</div>
-
     </div>
   );
 };
